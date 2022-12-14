@@ -23,12 +23,17 @@ Relacionamentos interessantes:
 1. Para compreender os relacionamentos entre os dados e a váriável de estudo: Gastos, aplicamos um algoritmo de machine learning.
 2. Após o algoritmo compreender matematicamente os relacionamento das variáveis, aplicamos como dados de entrada, as informações contidas na planilha: despesas-teste.csv (dados de novos clientes e sem a coluna gastos). Como resultado de saída, o algoritmo previu quais seriam os gastos relativos a estes novos clientes. 
 
-### Solução:
+![image](https://user-images.githubusercontent.com/119424591/207486185-35ebeac0-6904-48a5-a05d-d38576a13b46.png)
+
+
+### Solução Do Problema de Negócio:
 
 ![image](https://user-images.githubusercontent.com/119424591/207480571-36ca87c2-5d1c-4245-83f4-c17917485509.png)
 ![image](https://user-images.githubusercontent.com/119424591/207482703-fcc8a7cc-d1b1-40c5-a1f2-e7a82646b776.png)
 
-C
+Para compreensões de questões técnicas como erro-padrão e eficiências do modelo, entrar no relatoriotecnico.md.
+
+Análise e Execução: A. Damasceno.
 
 
 
