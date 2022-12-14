@@ -1,3 +1,15 @@
+# Informações Técnicas do Projeto
+
+#### Linguagem : R
+#### Pacotes Utilizados: 
+
+1. Estudo de correlação para encontrar as variáveis que mais implicam relacionamento com a coluna Gastos.
+2. Montagem do algoritmo de regressão linear a fim de estudar o comportamento dos dados de entrada.
+3. Aplicação do modelo na base nova de despesas-teste sem a coluna gastos.
+4. Dados de saída: coluna de gastos preenchida conforme o perfil do novo cliente.
+
+Para validar os novos dados de gastos gerados, obtivemos as seguintes informações:
+
 ![image](https://user-images.githubusercontent.com/119424591/207580220-ae405880-3476-441e-8c8a-cd5e2692f55c.png)
 
 
