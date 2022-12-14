@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/119424591/207580220-ae405880-3476-441e-8c8a-cd5e2692f55c.png)
 
 
 Equação de Regressão
